@@ -166,7 +166,7 @@ GEM
       byebug (~> 10.0)
       pry (~> 0.10)
     public_suffix (3.1.1)
-    puma (3.11.4)
+    puma (3.12.2)
     rack (2.0.5)
     rack-test (1.0.0)
       rack (>= 1.0, < 3)
@@ -289,7 +289,7 @@ DEPENDENCIES
   mailboxer
   pg (~> 0.15)
   pry-byebug
-  puma (~> 3.7)
+  puma (~> 3.12)
   rails (= 5.1.5)
   rails-html-sanitizer (~> 1.0.4)
   rails_12factor
